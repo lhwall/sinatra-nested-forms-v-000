@@ -20,6 +20,7 @@ binding.pry
       end
       binding.pry
 @ships = Ship.all
+binding.pry
       erb :"pirates/show"
 
     end
